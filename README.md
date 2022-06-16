@@ -1,4 +1,4 @@
-<h1> Welcome! =] </h1>
+<h1> Hi, I'm Larissa! =] </h1>
 
 <div> 
   <a href = "mailto:perinotolarissa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -7,21 +7,21 @@
 
 <img height="200em" align="right" src="https://user-images.githubusercontent.com/98956659/171744765-bba4f682-bd15-4cb7-86bf-289ec0207918.png">
 
-My name is Larissa. I'm 26 years old and I'm in a career transition process. In March 2022 I started studying at Trybe and I intend to start working in the area soon.
+I am a **food engineer** in career transition to **technology**. 👩🏻‍💻
 
-| My strong soft skills |
-|----------------------|
-- Organization 
-- Determination
-- Efficiency
-- Assertive communication
-- Focused on results
+  💻 Web Development Student at Trybe. 
+  
+  🌱 I’m learning React.
+  
+  🛖 I am living in Brazil.
+  
+  🌴 In my free time I like to read, cook, practice yoga and travel. 
+  
+  🎞️ I also really enjoy listening to music and watching old movies.
+  
+  🎯 I want to be a Full Stack Developer and I'm working on it.
 
-<div align="center"> 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larissaperinoto&theme=vue">
-</div>
-
-<br>
+###### What I already learned...
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
@@ -32,7 +32,8 @@ My name is Larissa. I'm 26 years old and I'm in a career transition process. In 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
+<br>
 
-
-
-
+<div align="center"> 
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larissaperinoto&theme=vue">
+</div>
