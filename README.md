@@ -2,7 +2,7 @@
 
 <div> 
   <a href = "mailto:perinotolarissa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/larissaperinoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http://www.linkedin.com/in/larissaperinoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <img height="200em" align="right" src="https://user-images.githubusercontent.com/98956659/171744765-bba4f682-bd15-4cb7-86bf-289ec0207918.png">
