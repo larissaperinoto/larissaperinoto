@@ -1,8 +1,8 @@
-<h1> Hi, I'm Larissa! =] </h1>
+<h1> Hi stranger! =] </h1>
 
 <div> 
   <a href = "mailto:perinotolarissa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/larissa-perinoto-a5053696" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/larissaperinoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <img height="200em" align="right" src="https://user-images.githubusercontent.com/98956659/171744765-bba4f682-bd15-4cb7-86bf-289ec0207918.png">
@@ -15,11 +15,11 @@ I am a **food engineer** in career transition to **technology**. 👩🏻‍💻
   
   🛖 I am living in Brazil.
   
-  🌴 In my free time I like to read, cook, practice yoga and travel. 
+  🌴 In my free time I like to read, practice yoga and travel. 
   
-  🎞️ I also really enjoy listening to music and watching old movies.
+  🎞️ I really enjoy listening to music and watching old movies.
   
-  🎯 I want to be a Full Stack Developer and I'm working on it.
+  🎯 I'm working to be a Full Stack Developer.
 
 ###### What I already learned...
 
