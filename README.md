@@ -54,6 +54,6 @@
 </br>
 
 <div>
-  <img height="200em" width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larissaperinoto&theme=vue">
-  <img height="195em" width="150em" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
+  <img height="200em" width="650em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larissaperinoto&theme=vue">
+  <img height="180em" width="150em" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
 </div>
