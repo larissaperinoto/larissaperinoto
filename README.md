@@ -21,10 +21,13 @@
     
 <div>
   <div>
-    <img src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" width="20px"> Code versioning
+    <img src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" width="20px" /> Code versioning
   </div>
   <div>
-    <img src="https://cdn-icons-png.flaticon.com/512/4727/4727486.png" width="20px"> Agile methodologies
+    <img src="https://cdn-icons-png.flaticon.com/512/4727/4727486.png" width="20px" /> Agile methodologies: Scrum and Kanban
+  </div>
+   <div>
+    <img src="https://img.icons8.com/dusk/64/null/curly-brackets.png" width="20px"/> Object-oriented programming and SOLID principles
   </div>
 </div>
   
@@ -50,6 +53,7 @@
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
   
 </br>
