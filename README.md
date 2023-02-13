@@ -8,7 +8,7 @@
 
   💻 Web Development Student at Trybe. 
   
-  🎯 I'm learning Back-end Development.
+  🎯 I'm learning Python.
   
   🌱 I'm currently working as a Summer of Instruction at Trybe.
   
