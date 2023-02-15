@@ -1,8 +1,9 @@
-![Captura de tela de 2022-11-01 16-31-12](https://user-images.githubusercontent.com/98956659/199322057-0ba030e0-96c1-4886-bc4a-0fbadb2b3537.png)
+![Captura de tela de 2023-02-15 18-09-25](https://user-images.githubusercontent.com/98956659/219164418-7a176408-4a36-4a66-a575-3d9e320b56aa.png)
 
-  <a href = "mailto:perinotolarissa@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/gmail.png" title="Email" /></a>
-  <a href="http://www.linkedin.com/in/larissaperinoto" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" title="Linkedin" /></a> 
-  <a href="https://open.spotify.com/user/22wksmrmnf6bbakqayxq3koli?si=2569e795c8a54365"><img src="https://img.icons8.com/clouds/100/000000/spotify.png" title="SpotiFy" /></a>
+  <a href="mailto:perinotolarissa@gmail.com"><img src="https://img.icons8.com/bubbles/100/null/gmail.png" title="Email" /></a>
+  <a href="http://www.linkedin.com/in/larissaperinoto" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
+  <a href="https://open.spotify.com/user/22wksmrmnf6bbakqayxq3koli?si=2569e795c8a54365"><img src="https://img.icons8.com/bubbles/100/null/spotify.png" title="Spotify" /></a>
+  <a href="https://vsco.co/-larissaperinoto"><img src="https://img.icons8.com/bubbles/100/null/vsco-logo.png" alt="VSCO" title="VSCO"/></a>
 
 <div>
 
