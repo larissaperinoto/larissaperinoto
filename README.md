@@ -7,11 +7,11 @@
 
 <div>
 
-  💻 Web Development Student at Trybe. 
+  💻 Web Development Student at [Trybe](https://www.betrybe.com/). 
   
-  🎯 I'm learning Python.
+  🎯 I'm learning Computer Science.
   
-  🌱 I'm currently working as a Summer of Instruction at Trybe.
+  🌱 I'm currently working as a Summer of Instruction (Tutor) at [Trybe](https://www.betrybe.com/).
   
   🎞️ I really enjoy listening to music, watching old movies, practice yoga and travel. ✈️
 
@@ -53,6 +53,7 @@
    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
 </div>
   
 </br>
