@@ -1,3 +1,4 @@
+![Profile](https://komarev.com/ghpvc/?username=larissaperinoto&color=955bfb&style=for-the-badge)
 ![Captura de tela de 2023-02-15 18-09-25](https://user-images.githubusercontent.com/98956659/219164418-7a176408-4a36-4a66-a575-3d9e320b56aa.png)
 
   <a href="mailto:perinotolarissa@gmail.com"><img src="https://img.icons8.com/bubbles/100/null/gmail.png" title="Email" /></a>
