@@ -8,11 +8,9 @@
 
 <div>
 
-  💻 Web Development Student at [Trybe](https://www.betrybe.com/). 
+  💻 Student in the Software Engineering MBA at [UTFPR](http://www.utfpr.edu.br/). 
   
-  🎯 I'm learning Computer Science.
-  
-  🌱 I'm currently working as a Summer of Instruction (Tutor) at [Trybe](https://www.betrybe.com/).
+  🎯 I'm learning Java.
   
   🎞️ I really enjoy listening to music, watching old movies, practice yoga and travel. ✈️
 
@@ -55,6 +53,8 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </div>
   
 </br>
