@@ -1,22 +1,22 @@
 ![Profile](https://komarev.com/ghpvc/?username=larissaperinoto&color=955bfb&style=for-the-badge)
 ![Captura de tela de 2023-02-15 18-09-25](https://user-images.githubusercontent.com/98956659/219164418-7a176408-4a36-4a66-a575-3d9e320b56aa.png)
 
-  <a href="mailto:perinotolarissa@gmail.com"><img src="https://img.icons8.com/bubbles/100/null/gmail.png" title="Email" /></a>
+  <a href="mailto:perinotolarissa@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/gmail.png" title="Email" /></a>
   <a href="http://www.linkedin.com/in/larissaperinoto" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
-  <a href="https://open.spotify.com/user/22wksmrmnf6bbakqayxq3koli?si=2569e795c8a54365"><img src="https://img.icons8.com/bubbles/100/null/spotify.png" title="Spotify" /></a>
-  <a href="https://vsco.co/-larissaperinoto"><img src="https://img.icons8.com/bubbles/100/null/vsco-logo.png" alt="VSCO" title="VSCO"/></a>
+  <a href="https://open.spotify.com/user/22wksmrmnf6bbakqayxq3koli?si=2569e795c8a54365" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/spotify.png" title="Spotify" /></a>
+  <a href="https://vsco.co/-larissaperinoto" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/vsco-logo.png" alt="VSCO" title="VSCO"/></a>
 
 <div>
 
   💻 Student in the Software Engineering MBA at [UTFPR](http://www.utfpr.edu.br/). 
   
-  🎯 I'm learning Java.
+  🎯 Software Engineer at [Tech X Digital Solutions](https://techx.pt/) and [MuuCert](https://www.linkedin.com/company/muucert/about/).
   
   🎞️ I really enjoy listening to music, watching old movies, practice yoga and travel. ✈️
 
 </div>
 
-### **Skills and technologies**...
+### **Skills and technologies**
   
     
 <div>
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
@@ -61,5 +61,5 @@
 
 <div>
   <img height="200em" width="650em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larissaperinoto&theme=vue">
-  <img height="180em" width="150em" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
+  <img height="180em" width="120em" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
 </div>
