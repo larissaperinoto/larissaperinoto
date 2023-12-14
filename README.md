@@ -34,10 +34,10 @@
   
   📝 **Main languages**  
   <div>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="Typescript" width="100px"  />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="Javascript" width="100px"  /> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" width="90px"  />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" width="90px"  />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="Typescript" height="20px"  />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="Javascript" height="20px"   /> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="20px"   />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" height="20px"   />
   </div>
 
   </br>
@@ -45,35 +45,35 @@
   🪛 **Frameworks and Tools**
   
   <div>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs2.svg" alt="NestJS" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="ExpressJS" />
-  <img src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" alt="Flask" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" alt="Django" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="Next" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs2.svg" alt="NestJS" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="ExpressJS" height="20px" />
+  <img src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" height="20px" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" alt="Flask" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" alt="Django" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="Next" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="20px" />
   </div>
 
   </br>
 
  🗂  **Databases, ORM and ODM** 
   <div>
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="Postgres"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MYSQL"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" alt="Supabase"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize2.svg" alt="Sequelize"/>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm2.svg" alt="TypeORM"/>
+   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="Postgres" height="20px"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MYSQL" height="20px"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="20px"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" alt="Supabase" height="20px"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize2.svg" alt="Sequelize" height="20px"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm2.svg" alt="TypeORM" height="20px"/>
   </div>
   
 </br>
 
 📏📐 **Tests**
 <div>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg" alt="Jest" />
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" />
-  <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="Chai" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg" alt="Jest" height="20px" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" height="20px" />
+  <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="Chai" height="20px" />
 </div>
 
 
@@ -81,14 +81,14 @@
 
 🖇 **Others**
 <div>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="React" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg" alt="JWT" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" alt="Swagger" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg" alt="Redux" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="React" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg" alt="JWT" height="20px" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" alt="Swagger" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg" alt="Redux" height="20px" />
 </div>
 
 
