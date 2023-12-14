@@ -10,7 +10,7 @@
 
   💻 Student in the Software Engineering MBA at [UTFPR](http://www.utfpr.edu.br/). 
   
-  🎯 Software Engineer at [Tech X Digital Solutions](https://techx.pt/) and [MuuCert](https://www.linkedin.com/company/muucert/about/).
+  🎯 Backend Developer at [MuuCert](https://www.linkedin.com/company/muucert/about/).
   
   🎞️ I really enjoy listening to music, watching old movies, practice yoga and travel. ✈️
 
@@ -18,7 +18,6 @@
 
 ### **Skills and technologies**
   
-    
 <div>
   <div>
     <img src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" width="20px" /> Code versioning
@@ -30,33 +29,69 @@
     <img src="https://img.icons8.com/dusk/64/null/curly-brackets.png" width="20px"/> Object-oriented programming and SOLID principles
   </div>
 </div>
+</br>
+
   
+  📝 **Main languages**  
+  <div>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="Typescript"  />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="Javascript"  /> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" />
+  </div>
+
+  </br>
+  
+  🪛 **Frameworks and Tools**
+  
+  <div>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs2.svg" alt="NestJS" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="ExpressJS" />
+  <img src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" alt="Flask" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" alt="Django" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="Next" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" />
+  </div>
+
   </br>
 
-<div> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</div>
+ 🗂  **Databases, ORM and ODM** 
+  <div>
+   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="Postgres"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MYSQL"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" alt="Supabase"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize2.svg" alt="Sequelize"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeORM/typeorm2.svg" alt="TypeORM"/>
+  </div>
   
+</br>
+
+📏📐 **Tests**
+<div>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg" alt="Jest" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" />
+  <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="Chai" />
+</div>
+
+
+</br>
+
+🖇 **Others**
+<div>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="React" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg" alt="JWT" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" alt="Swagger" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg" alt="Redux" />
+</div>
+
+
 </br>
 
 <div>
