@@ -84,10 +84,10 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML" height="20px" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" height="20px" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="React" height="20px" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="20px" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg" alt="JWT" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" alt="TailwindCSS" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt2.svg" alt="JWT" height="20px" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" alt="Swagger" height="20px" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git" height="20px" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="20px" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg" alt="Redux" height="20px" />
 </div>
 
