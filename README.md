@@ -8,7 +8,7 @@
 
 <div>
 
-  🎯 Backend Developer at [MuuCert](https://www.linkedin.com/company/muuagrotech/mycompany/).
+  🎯 Backend Developer at [Muu Agrotech](https://www.linkedin.com/company/muuagrotech/mycompany/).
 
   💻 Student in the Software Engineering MBA at [UTFPR](http://www.utfpr.edu.br/). 
   
