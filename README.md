@@ -8,9 +8,9 @@
 
 <div>
 
+  🎯 Backend Developer at [MuuCert](https://www.linkedin.com/company/muuagrotech/mycompany/).
+
   💻 Student in the Software Engineering MBA at [UTFPR](http://www.utfpr.edu.br/). 
-  
-  🎯 Backend Developer at [MuuCert](https://www.linkedin.com/company/muucert/about/).
   
   🎞️ I really enjoy listening to music, watching old movies, practice yoga and travel. ✈️
 
