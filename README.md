@@ -8,8 +8,6 @@
 
 <div>
 
-  🎯 Backend Developer at [Muu Agrotech](https://www.linkedin.com/company/muuagrotech/mycompany/).
-
   💻 Student in the Software Engineering MBA at [UTFPR](http://www.utfpr.edu.br/). 
   
   🎞️ I really enjoy listening to music, watching old movies, practice yoga and travel. ✈️
