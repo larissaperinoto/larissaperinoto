@@ -7,8 +7,6 @@
   <a href="https://vsco.co/-larissaperinoto" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/vsco-logo.png" alt="VSCO" title="VSCO"/></a>
 
 <div>
-
-  💻 Student in the Software Engineering MBA at [UTFPR](http://www.utfpr.edu.br/). 
   
   🎞️ I really enjoy listening to music, watching old movies, practice yoga and travel. ✈️
 
