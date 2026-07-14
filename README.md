@@ -1,5 +1,7 @@
 ![Profile](https://komarev.com/ghpvc/?username=larissaperinoto&color=955bfb&style=for-the-badge)
-![Captura de tela de 2023-02-15 18-09-25](https://user-images.githubusercontent.com/98956659/219164418-7a176408-4a36-4a66-a575-3d9e320b56aa.png)
+<img width="1600" height="245" alt="image" src="https://github.com/user-attachments/assets/ec7c113f-3aa9-4c43-a782-f0406f4d6492" />
+
+
 
   <a href="mailto:perinotolarissa@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/gmail.png" title="Email" /></a>
   <a href="http://www.linkedin.com/in/larissaperinoto" target="_blank"><img src="https://img.icons8.com/bubbles/100/null/linkedin.png" title="Linkedin" /></a> 
